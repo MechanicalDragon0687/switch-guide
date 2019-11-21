@@ -134,7 +134,7 @@ There are several methods of entering RCM (**R**e**C**overy **M**ode). The most 
     !!! snippet "Note"
         This method requires opening your right Joy-Con, voiding its warranty. Not for the faint of heart.
 
-    The goal of this method is to open the right handed Joy-Con to the point that you can reach the contact pads easily, and use a thin object such as a knife to gently bend pin 9 and 10 (shown below) slightly up and towards each other so they touch, shorting them.
+    The goal of this method is to open the right handed Joy-Con to the point that you can reach the contact pads easily, and use a thin object such as a knife to gently bend pin 9 slightly up and towards pin 10 so they touch (shown below), shorting them.
 
     !!! tip ""
         ![Joycon Pin Refrence](../img/enterting_rcm_pins_numbered.jpg)
